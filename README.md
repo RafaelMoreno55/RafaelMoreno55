@@ -11,56 +11,31 @@
     </td>
   </tr>
 </table>
-<h3>🌱 Actualmente estoy aprendiendo:</h3>
+<h3>🌱 Actualmente aprendiendo:</h3>
 
 ![](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
-
-<h3>🚀 Habilidades:</h3>
-
-- Programación
-
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-- Web UI
-
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-
-- Base de datos
-
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-- Framework
-
-![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Trabajos realizados:
 
 - Fabuloso reproductor de video realizado con HTML, CSS y JavaScript
 
 	- [Ver código](https://github.com/RafaelMoreno55/DW-video-player)
- 	- [Demo](https://rafaelmoreno55.github.io/DW-video-player/)
+	- [![reproductor](https://user-images.githubusercontent.com/70308588/195009856-0cfb3311-9dce-45ee-9228-8ce41a469157.jpg)](https://rafaelmoreno55.github.io/DW-video-player/)
 
 - Single Page Application desarrollado en Angular 4 la cual permite mostrar reportes con gráficos interactivos 
 
 	- [Ver código](https://github.com/RafaelMoreno55/angular-reportes-interactivos)
- 	- [Demo](https://youtu.be/hi5GLNmFglU)
+	- [![reportesInteractivos](https://user-images.githubusercontent.com/70308588/195000496-ce6055a2-2efa-4e66-afd2-1c9dceccc319.jpg)](https://youtu.be/hi5GLNmFglU)
 	
 - Permite configurar la identidad visual de las marcas. Además, permite crear, ordenar y visualizar las listas de reproducción
 
 	- [Ver código](https://github.com/RafaelMoreno55/gestion_marcas)
- 	- [Demo](https://youtu.be/1tUpOg3pnpY)
+	- [![gestorMarcas](https://user-images.githubusercontent.com/70308588/195000633-ad71555b-2b85-452a-8430-3afcf1f9ff3e.jpg)](https://youtu.be/1tUpOg3pnpY)
 	
 - Versión sencilla del clásico juego del Snake desarrollado en una aplicación de escritorio de Windows utilizando Visual Studio 2019
 
 	- [Ver código](https://github.com/RafaelMoreno55/Serpiente)
- 	- [Demo](https://youtu.be/oM9hq0bGTw8)
+	- [![Snake](https://user-images.githubusercontent.com/70308588/195000863-e2f75cf0-a0e3-4116-adba-65b3ea58309f.jpg)](https://youtu.be/oM9hq0bGTw8)
 	
 </br>
 
