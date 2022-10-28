@@ -24,12 +24,10 @@
 
 - Single Page Application desarrollado en Angular 4 la cual permite mostrar reportes con gráficos interactivos 
 
-	- [Ver código](https://github.com/RafaelMoreno55/angular-reportes-interactivos)
 	- [![reportesInteractivos](https://user-images.githubusercontent.com/70308588/195000496-ce6055a2-2efa-4e66-afd2-1c9dceccc319.jpg)](https://youtu.be/hi5GLNmFglU)
 	
 - Permite configurar la identidad visual de las marcas. Además, permite crear, ordenar y visualizar las listas de reproducción
 
-	- [Ver código](https://github.com/RafaelMoreno55/gestion_marcas)
 	- [![gestorMarcas](https://user-images.githubusercontent.com/70308588/195000633-ad71555b-2b85-452a-8430-3afcf1f9ff3e.jpg)](https://youtu.be/1tUpOg3pnpY)
 	
 - Versión sencilla del clásico juego del Snake desarrollado en una aplicación de escritorio de Windows utilizando Visual Studio 2019
